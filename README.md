@@ -1,4 +1,4 @@
-<h1>Brian Carter<br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Brian Carter<br/><a>Network Engineer</a>, <a>Cybersecurity Professional</a> Tech Lover<a> /a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
