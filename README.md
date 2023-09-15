@@ -1,4 +1,4 @@
-<h1>Brian Carter<br/><a>Network Engineer</a>, <a>Cybersecurity Professional</a> Tech Lover<a> /a></h1>
+<h1>Brian Carter<br/><a>Network Engineer</a>, <a>Cybersecurity Professional</a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
