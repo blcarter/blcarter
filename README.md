@@ -1,6 +1,6 @@
 <h1>Brian Carter<br/><a>Network Engineer</a>, <a>Cybersecurity Professional</a> 
 
-<h2> 😚 Cybersecurity Projects:</h2>
+<h2> 🕵️‍♂️💻 Cybersecurity Projects:</h2>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
-<h2> Python Projects:</h2>
+<h2> 🐍 Python Projects:</h2>
 
 <h2>  Connect with me:</h2>
 <!--
